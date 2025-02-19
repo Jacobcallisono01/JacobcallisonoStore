@@ -1,0 +1,32 @@
+{
+  "JacobcallisonoStoreApp": {
+    "Name":"C.A.T.S. For Scratch",
+    "Version":"0.3.2",
+    "Id":2,
+    "Type":"JacobcallisonoStoreWebApp",
+    "HasDownloadLink": true,
+    "File":"C.A.T.S. For Scratch V0.3.2.2.01.jcnostore",
+    "FileDirectory":"/apps/html/2/",
+    "UploadedDate":"2/19/2025",
+    "UploadedTime":"11:35",
+    "Devs":"Jacobcallisono",
+    "Release":"6/6/2024",
+    "ReleaseTime":"4:51 PM",
+    "IsGame":true
+  },
+  "JacobcallisonoStoreGame":{
+    "Name":"C.A.T.S. For Scratch",
+    "Genres":[
+      "Action",
+      "Multiplayer"
+    ],
+    "Logo":"../images/apps/2.png",
+    "IsInSysGames":true,
+    "IsApproved":true,
+    "AvalibleOperatingSystems":[
+      "All"
+    ],
+    "ReleaseDate":"6/6/2024",
+    "ReleaseDateFull":"Jun. 6, 2024"
+    }
+  }
